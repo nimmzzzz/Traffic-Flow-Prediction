@@ -13,9 +13,13 @@ This project predicts vehicle traffic flow patterns using a RandomForest-based M
 - Performance evaluation using accuracy metrics and visualizations
 
 ## 📌 Tech Stack
-- Python  
-- RandomForestRegressor  
-- Pandas, NumPy, Matplotlib, Seaborn
-
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn (RandomForestRegressor)
+- math
+  
 ## 📌 Status
 Completed as an academic machine learning project.
